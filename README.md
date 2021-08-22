@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - Senior student of University of Seoul (STAT/CS)
-- Iterested in Backend Development and AI Production
+- Interested in Backend Development and AI Production
