@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Kang Changgu 👋
 
 <!--
 **rxdcxdrnine/rxdcxdrnine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Senior student of University of Seoul (STAT/CS)
+- Iterested in Backend Development and AI Production
