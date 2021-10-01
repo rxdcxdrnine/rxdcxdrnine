@@ -1,4 +1,8 @@
-### Hi, I'm Kang Changgu 👋
+## Hi, I'm Kang Changgu 👋
+
+- Senior student of University of Seoul (STAT/CS)
+- Member of GDSC University of Seoul
+- Interested in Backend Development and AI Production
 
 <!--
 **rxdcxdrnine/rxdcxdrnine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Senior student of University of Seoul (STAT/CS)
-- Interested in Backend Development and AI Production
+
+### 🔭 I’m currently working on ...
+  - Capstone Project (React.js, Nest.js with TypeScript)
+  - Personal Project (React.js, Spring, Triton Inference Server w/ Pytorch)
