@@ -25,4 +25,4 @@ Here are some ideas to get you started:
   - Personal Project (React.js, Spring, Triton Inference Server w/ Pytorch)
 
 
-My Resume is [Here](https://github.com/rxdcxdrnine/rxdcxdrnine/blob/master/resume.pdf) (in Korean)
+My résumé is [Here](https://github.com/rxdcxdrnine/rxdcxdrnine/blob/master/resume.pdf) (in Korean)
