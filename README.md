@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 ### 🔭 I’m currently working on ...
   - Capstone Project (React.js, Nest.js with TypeScript)
   - Personal Project (React.js, Spring, Triton Inference Server w/ Pytorch)
+
+
+My Resume is [Here](https://github.com/rxdcxdrnine/rxdcxdrnine/blob/master/resume.pdf) (in Korean)
