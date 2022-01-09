@@ -2,7 +2,7 @@
 
 - Senior student of University of Seoul (STAT/CS)
 - Member of GDSC University of Seoul
-- Interested in Backend Development and AI Production
+- Member of 2022 Codesquad Masters Course Backend Class
 
 <!--
 **rxdcxdrnine/rxdcxdrnine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,8 +21,4 @@ Here are some ideas to get you started:
 
 
 ### 🔭 I’m currently working on ...
-  - Capstone Project (React.js, Nest.js with TypeScript)
-  - Personal Project (React.js, Spring, Triton Inference Server w/ Pytorch)
-
-
-My résumé is [Here](https://github.com/rxdcxdrnine/rxdcxdrnine/blob/master/resume.pdf) (in Korean)
+  - Google Solution Challenge Project (Spring)
